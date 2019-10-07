@@ -1,2 +1,1 @@
-# machine_learning
-Mix of personal projects and online coursework. Have fun !
+# Mix of personal projects and coursework. Have fun !
