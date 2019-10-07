@@ -10,4 +10,4 @@ Implementation:
 
 -ROC AUC of 0.85 using 10 epochs. Finished in 5-7 minutes
 
--More in the notebook under code/final_submission.ipynb
+-More in the notebook - code/final_submission.ipynb
